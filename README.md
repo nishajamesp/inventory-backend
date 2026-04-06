@@ -1,5 +1,9 @@
 # Inventory Management System Backend
 
+**Live Link** : https://inventory-backend-one-orcin.vercel.app/
+Github Link : https://github.com/nishajamesp/inventory-backend
+
+
 This is a simple backend-only **Inventory Management System** built using **Node.js** and **Express.js**.
 
 It uses an **in-memory array** to store inventory data, so no database is required.
